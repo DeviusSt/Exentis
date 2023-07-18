@@ -8,7 +8,7 @@ This a old 3d engige in python
 # install
 
 please install exentis to disk C:
-example - ```C:/exentis           ```
+example - ```C:/exentis```
  for work Exentis Hub.
 
 # what?

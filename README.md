@@ -12,16 +12,15 @@ example - ```C:/exentis```
  for work Exentis Hub.
 
 # what?
-This a 3d old engine in python by pygame, tutorial for use in youtube channel ```youtube.com/@Synthous
-                    ```
+This a 3d old engine in python by pygame, tutorial for use in youtube channel ```youtube.com/@Synthous```
 
 ![AppScreenshot](https://cdn.discordapp.com/attachments/940202674555613206/1130819202090029056/Screenshot_199.png)
 
 # Req
 a pygame module 
-```bash
-pip install pygame
-```
+
+```pip install pygame```
+
 python 3.11.0 (minimum)
 
 # Hub

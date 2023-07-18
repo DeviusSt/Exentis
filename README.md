@@ -29,5 +29,5 @@ python 3.11.0 (minimum)
 hub is not source code. Hub created for create project
 
 # Authors
-- [@Synthous (in devius)](https://youtube.com/Synthous)
+- [@Synthous (in devius)](https://youtube.com/@Synthous)
 - [@Devius Studio](https://github.com/Deviusst)
